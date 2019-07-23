@@ -256,7 +256,7 @@ end
 
 find_player_hash("Ben Gordon")
 
-def num_points_scored3(player_name)
+def num_points_scored_3(player_name)
   find_player_hash(player_name)[:points]
 end 
 
